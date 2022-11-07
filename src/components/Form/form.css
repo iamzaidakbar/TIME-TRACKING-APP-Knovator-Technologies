@@ -1,0 +1,9 @@
+form {
+    position: absolute;
+    right: 35%;
+    top: 9%;
+    background-color: white;
+    padding: 20px;
+    width: 17rem;
+    transition: 0.2s all;
+}

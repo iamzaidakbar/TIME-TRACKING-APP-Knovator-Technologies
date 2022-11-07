@@ -1,0 +1,13 @@
+.task-modal {
+    background-color: black;
+    width: 21rem;
+    padding: 10px 15px;
+    color: white;
+    border: 1px solid silver;
+    transition: 0.2s all;
+}
+
+.task-modal p {
+    margin: 5px;
+    color: silver;
+}
